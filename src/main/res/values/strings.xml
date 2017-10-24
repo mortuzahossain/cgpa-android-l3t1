@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">CGPA-EEE L3T1</string>
+    <string-array name="subject_name">
+        <item>Signals and Systems</item>
+        <item>Digital Electronics </item>
+        <item>Digital Electronics Sessional</item>
+        <item>Electrical Properties of Material</item>
+        <item>Measurement  and Instrumentation</item>
+        <item>Measurement  and Instrumentation Sessional</item>
+        <item>Math V </item>
+    </string-array>
+    <string-array name="subject_credit">
+        <item>3</item>
+        <item>3</item>
+        <item>1.5</item>
+        <item>3</item>
+        <item>3</item>
+        <item>1.5</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="result">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>D</item>
+        <item>F</item>
+    </string-array>
+
+    <string-array name="result_value">
+        <item>4.00</item>
+        <item>3.75</item>
+        <item>3.50</item>
+        <item>3.25</item>
+        <item>3.00</item>
+        <item>2.75</item>
+        <item>2.50</item>
+        <item>2.25</item>
+        <item>2.00</item>
+        <item>0.00</item>
+    </string-array>
+</resources>
